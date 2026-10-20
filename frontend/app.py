@@ -217,9 +217,9 @@ def render_recommendations(result: FootprintResult, lifestyle: UserLifestyleInpu
 # ---------------------------------------------------------------------
 
 st.set_page_config(
-    page_title="CarbonLens — Estimate your monthly carbon footprint",
+    page_title="CarbonCrafters — Estimate your monthly carbon footprint",
     page_icon="🌍",
-    layout="centered",
+    layout="wide",
 )
 
 st.title("🌍 What's your carbon footprint?")
