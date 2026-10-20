@@ -1,4 +1,4 @@
-# 🌍 CarbonLens
+# 🌍 CarbonCrafters
 
 [![CI](https://github.com/DeemonDuck/CarbonLens/actions/workflows/ci.yml/badge.svg)](https://github.com/DeemonDuck/CarbonLens/actions/workflows/ci.yml)
 
@@ -117,7 +117,7 @@ navigating into it.
 ### Page title
 
 `st.set_page_config` sets a descriptive title —
-*"CarbonLens — Estimate your monthly carbon footprint"* — rather than a
+*"CarbonCrafters — Estimate your monthly carbon footprint"* — rather than a
 bare app name. This is what screen readers announce as the document title
 and what appears in browser history and bookmarks.
 
@@ -256,5 +256,13 @@ calculation engine entirely; no new emission-factor work needed.
 
 ## Built by
 
-**Team DeemonDuck**
-GitHub: [github.com/DeemonDuck](https://github.com/DeemonDuck)
+Sahil Rajbhar 2502220100675
+Rohit Ahirwar 2502220100658
+Sachin Kumar 2502220100667
+Sachin Kumar 2502220100668
+Branch = B-Tech (CSE)
+I.T.S Engineering College
+Greater Noida
+CarbonCrafters is a web-based application designed to estimate carbon emision associated with electricity consumption and everyday activities.It help users understand their environmental impact by calculating their estimated carbon footprint based on factors such as transportation, electricity usage, and cooking fuel consumption.
+
+GitHub: [github.com/sahiilicious](https://github.com/sahiilicious)
